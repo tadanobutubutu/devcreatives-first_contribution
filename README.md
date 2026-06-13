@@ -6,6 +6,14 @@
 
 ### A web page that shows details of all the members, owners and contributors.
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![npm version](https://img.shields.io/npm/v/first-time-contribution-project?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/first-time-contribution-project?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/first-time-contribution-project?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-1.0.0-blue?style=flat-square)](https://www.npmjs.com/package/first-time-contribution-project)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
+
 ## First Contributions:
 
 - Are you new to open source project?
